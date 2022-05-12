@@ -1,0 +1,1 @@
+Đánh giá các mô hình phân lớp dựa trên 4 độ đo: F1, precision, recall, và accuracy.
